@@ -1,0 +1,31 @@
+.cabeçalho{
+    background-color: #996EAD;
+    height: 200px;
+}
+.texto{
+    background-color: #DABDBD;
+    height: 1000px;
+    
+}
+.titulo-cabeçalho{
+    font-family: 'Yaldevi', sans-serif;
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    padding-top: 70px;
+}
+.texto{
+    font-family: 'Yaldevi', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 100px;
+}
+.telefone{
+    background-color: #996EAD;
+    height: 300px;
+    font-family: 'Yaldevi', sans-serif;
+    font-size: 35px;
+    text-align: center;
+
+}
